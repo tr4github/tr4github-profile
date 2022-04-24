@@ -55,7 +55,7 @@
 * [`Rest Api`](https://api-tr4 bot.herokuapp.com)
 
 <!--
-**Johannes2803/Johannes2830** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**tr4github/tr4github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

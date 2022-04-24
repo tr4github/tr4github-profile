@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-  <a href="https://youtube.com/channel/UC0hs_I8N3JntK5vO6KogavQ"><img src="https://img.shields.io/badge/YouTube-tr4github-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtu.be/DfgBY51sHZA" /></a>
+  <a href=""><img src="https://img.shields.io/badge/YouTube-tr4github-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtu.be/DfgBY51sHZA" /></a>
   <a name=putra&label=VIEWS&style=flat-square&color=orange" />
 
 </p> 
@@ -52,7 +52,6 @@
 
 * [`WhatsApp Admin `](https://wa.me/6289654836567)
                                                   
-* [`Rest Api`](https://api-tr4 bot.herokuapp.com)
 
 <!--
 **tr4github/tr4github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
